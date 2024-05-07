@@ -1,5 +1,10 @@
 <img src="app/static/img/BannerSkyFly.png" style="margin-left: auto; margin-right: auto;">
 
+# 🚀 Equipe SkyFly
+
+|Semestre | Projeto | Cliente | Descrição | Repositórios |
+|---------|---------|---------|-----------|--------------|
+|1° SEM | Smart Farm | Equipe I9 | Painel de visualização que permite o monitoramento constante de uma estufa através de gráficos e automatização do processo de coleta e armazenamento de dados| - |
 
 # 👥 Autores
 
