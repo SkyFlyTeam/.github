@@ -2,14 +2,15 @@
 
 # 🚀 Equipe SkyFly
 
-|Semestre | Projeto | Cliente | Descrição |  Repositório  |
-|---------|---------|---------|-----------| ------------- | 
-|1° SEM | Smart Farm | Equipe I9 | Painel de visualização que permite o monitoramento constante de uma estufa através de gráficos e automatização do processo de coleta e armazenamento de dados |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/smart_farm)|
+|Semestre |   Projeto  | Cliente | Descrição |  Repositório  |
+|---------|------------|---------|-----------| ------------- | 
+| 1° SEM  | Smart Farm | Equipe I9 | Painel de visualização que permite o monitoramento constante de uma estufa através de gráficos e automatização do processo de coleta e armazenamento de dados |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/smart_farm)|
+| 2° SEM  | - | Claudio Etelvino  | Sistema de controle de estoque para gestão eficiente de uma organização. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque, e a geração de relatórios que auxiliem na tomada de decisões estratégicas | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| |
 
 # 👥 Autores
 
 
-| Nome                                     |                                                                                                                                                        LinkedIn & GitHub                                                                                                                                                 |   Smart Farm  |  CloudStock   |
+| Nome                                     |                                                                                                                                                        LinkedIn & GitHub                                                                                                                                                 |   Smart Farm  | -   |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------- |
 | Mariane Valério Nunes                    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Marianne10)                                                            | Product Ownew | Dev Team      |
 | André Salerno                            |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andresalerno/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andresalerno)                 | Scrum Master  | Scrum Master  |
@@ -22,4 +23,3 @@
 | Arthur Johannes Rodrigues Peres y Peres  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajperes/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ajperes)                           | Dev Team      | Dev Team      |
 
 ![image 6](https://github.com/andresalerno/projeto_api/assets/105525498/a7ca2b45-b638-4ae3-a1aa-d4b533acc6ab)
-
