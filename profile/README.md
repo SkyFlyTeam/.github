@@ -5,7 +5,8 @@
 |Semestre |   Projeto  | Cliente | Descrição |  Repositório  |
 |---------|------------|---------|-----------| ------------- | 
 | 1° SEM  | Smart Farm | Equipe I9 | Painel de visualização que permite o monitoramento constante de uma estufa através de gráficos e automatização do processo de coleta e armazenamento de dados |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/smart_farm)|
-| 2° SEM  | - | Claudio Etelvino  | Sistema de controle de estoque para gestão eficiente de uma organização. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque, e a geração de relatórios que auxiliem na tomada de decisões estratégicas | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/cloudStock)| |
+| 2° SEM  | - | Claudio Etelvino  | Sistema de controle de estoque para gestão eficiente de uma organização. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque, e a geração de relatórios que auxiliem na tomada de decisões estratégicas | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/cloudStock)|
+| 3° SEM  | - | Eduardo Sakaue  | A DEFINIR | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/cloudStock)||
 
 # 👥 Autores
 
