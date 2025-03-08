@@ -6,7 +6,7 @@
 |---------|------------|---------|-----------| ------------- | 
 | 1° SEM  | Smart Farm | Equipe I9 | Painel de visualização que permite o monitoramento constante de uma estufa através de gráficos e automatização do processo de coleta e armazenamento de dados |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/smart_farm)|
 | 2° SEM  | CloudStock | Claudio Etelvino  | Sistema de controle de estoque para gestão eficiente de uma organização. Inclui o registro e controle de produtos, fornecedores, movimentações de estoque, e a geração de relatórios que auxiliem na tomada de decisões estratégicas | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/cloudStock)|
-| 3° SEM  | A DEFNIR | Eduardo Sakaue  | Sistema de controle de ponto eletrônico para que as empresas possam gerenciar de forma mais eficaz suas equipes quanto a escalas/jornadas de trabalho, ausências programadas, horas extras, banco de horas, férias e etc. | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/3S-teste.git)||
+| 3° SEM  | Clock In | Eduardo Sakaue  | Sistema de controle de ponto eletrônico para que as empresas possam gerenciar de forma mais eficaz suas equipes quanto a escalas/jornadas de trabalho, ausências programadas, horas extras, banco de horas, férias e etc. | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/SkyFlyTeam/3S-teste.git)||
 
 # 👥 Autores
 
